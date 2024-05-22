@@ -1457,5 +1457,5 @@ Oct 15 2013
 [scripts]: docs/scripts.md
 
 [buy]: https://app.simplegoods.co/i/AQTTVBOE
-[PRO-license]: licenses/PRO.md
-[GPL-3.0]: licenses/GPL-3.0.md
+[PRO-license]: licensess/PRO.md
+[GPL-3.0]: licensess/GPL-3.0.md
