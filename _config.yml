@@ -133,7 +133,7 @@ defaults:
       sitemap:         false
 
   - scope:
-      path:            licensess/
+      path:            licenses/
     values:
       layout:          plain
       sitemap:         false
