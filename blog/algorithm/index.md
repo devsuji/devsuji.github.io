@@ -7,4 +7,4 @@ description: >
 permalink: /blog/algorithm/
 ---
 
-📌 [Lis 알고리즘](algorithm/lis-algorithm)
+📌 [Lis 알고리즘](lis-algorithm)
