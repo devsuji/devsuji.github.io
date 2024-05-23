@@ -4,7 +4,7 @@ title: CS
 slug: cs
 category: blog
 description: >
-permalink: /blog/cs
+permalink: /blog/cs/
 ---
 
 <span style="font-size: 18px">📌 Network </span> 

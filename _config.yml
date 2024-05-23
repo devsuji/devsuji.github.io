@@ -305,6 +305,12 @@ collections:
     permalink:         /projects/:path/
     output:            true
 
+  cs:
+    output: true
+
+  algorithm:
+    output: true
+
 
 # File inclusion/exclusion
 # ----------------------------------------------------------------------------------------
