@@ -10,4 +10,5 @@ description: >
 **수지와 함께하는 <span style='color: #08c659'> CS 탐험기</span>**
 
 
-📌 [Algorithm](/tag-algorithm) 
+📌 [Algorithm](algorithm) <br>
+📌 [Computer Science](cs) 

@@ -3,6 +3,8 @@ layout: list
 title: Algorithm
 slug: algorithm
 category: blog
-sidebar: true
 description: >
+permalink: /blog/algorithm
 ---
+
+📌 [Lis 알고리즘](./lis-algorithm)
